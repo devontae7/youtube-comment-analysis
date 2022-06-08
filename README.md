@@ -43,23 +43,23 @@ Polarity analysis takes into account the amount of positive or negative terms th
 ----------------------------------------------------------------
  Word cloud is a technique for visualising frequent words in a text where the size of the words represents their frequency.
 
-### Analysis 4: Collect Entire Data of Youtube
+### Analysis 3: Collect Entire Data of Youtube
 --------------------------------------------------------------------------------------------
 
-### Analysis 5: Which Category has maximum likes?
+### Analysis 4: Which Category has maximum likes?
 ------------------------------------------------------------------------------------------------
 
-### Analysis 6: Check Wheather audience is engaging or not?
+### Analysis 5: Check Wheather audience is engaging or not?
 ------------------------------------------------------------------------------------------------
 
-### Analysis 7: Check Trending videos
+### Analysis 6: Check Trending videos
 ------------------------------------------------------------------------------------------------
 analysis on which youtube channel produced more trending videos
 
-### Analysis 8: Check if punctutation in title and tags has any connection with the engagement
+### Analysis 7: Check if punctutation in title and tags has any connection with the engagement
 ------------------------------------------------------------------------------------------------
 
-### Analysis 9: Emoji Analysis
+### Analysis 8: Emoji Analysis
 ----------------------------------------------------------------
 
 
