@@ -65,7 +65,7 @@ analysis on which youtube channel produced more trending videos
 
 ## Visualization:
 
-1. Most used egative and positive words
+1. Most used Negative and Positive words
 ![bad_wordcloud](https://user-images.githubusercontent.com/106653421/172568043-a0d0fecb-38a7-4258-9d8f-de47d7aae7f2.png)
 ![good_wordcloud](https://user-images.githubusercontent.com/106653421/172568058-af4e6a54-f318-4cdd-a5d3-34bf9c44dcce.png)
 
